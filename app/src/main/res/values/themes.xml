@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Meetup" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#fc3503</item>
+        <item name="android:colorPrimaryDark">#fc3503</item>
+    </style>
+
+    <style name="Theme.Meetup" parent="Base.Theme.Meetup" />
+
+    <style name="RoundedCorner">
+        <item name="cornerSize">20dp</item>
+    </style>
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="mySpinner" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>

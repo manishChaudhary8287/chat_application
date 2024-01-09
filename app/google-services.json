@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23316135901",
+    "project_id": "meetup-bf2ac",
+    "storage_bucket": "meetup-bf2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23316135901:android:ed856f9c5401cc11b88034",
+        "android_client_info": {
+          "package_name": "com.vikas.meetup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqRsDJ7FnLsHc4N0AlzRC6TB5Gtkn12A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
